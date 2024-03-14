@@ -2,6 +2,7 @@
 title: Civil Aviation Authority of Singapore
 permalink: /accolades/caas/
 description: ""
+variant: markdown
 ---
 ![](/images/hero.png)
 
@@ -9,25 +10,55 @@ description: ""
 	<h2>Civil Aviation Authority of Singapore</h2>
 </center>
 
-![](/images/ACCOLADES/CAAS/ComChest-Award.jpg)
+![](/images/ACCOLADES/CAAS/caas_award.png)
 
 <center>
-	<p><b>Community Chest Award - SHARE Platinum  </b></p>
-	<p>SHARE is a monthly giving programme of Community Chest which enables individuals to make small but regular donations on a sustained basis through convenient modes such as payroll.</p>
-	<p>SHARE Platinum is for organisations who have regular monetary contribution and high SHARE participation rate of 90-97% towards ComChest.</p>
+	<p><b>Community Chest Award –  SHARE Platinum and Charity Bronze </b></p>
+	<p>The Charity Awards are presented to organisations and individuals who have made significant donations to Community Chest. These donations include outright donations, funds raised from events and contributions through SHARE, Community Chest’s monthly giving programme.</p>
 </center>
 
-![](/images/ACCOLADES/CAAS/CAAS%20One%20Publis%20Service%20Award%20-%20Enhanced%20SHN.jpg)
+
+
+
+
+![](/images/ACCOLADES/CAAS/Flight_Safety_Foundation_Gloria_Heath_Trophy__web_.jpg)
 
 <center>
-	<p><b>Public Sector Transformation Awards – One Public Service Award: Enhanced Stay Home Notice (SHN) Operations </b></p>
-	<p>This award recognises agencies for exemplary inter-agency initiatives that have reflected a sustained and institutionalised approach to collaboration. The initiatives may be exemplary WOG efforts in: (i) service delivery, (ii) citizen engagement, (iii) regulatory review, (iv) digitalisation that achieve a transformative (not incremental) change in how things are done; or (v) innovation at the WOG level.</p>
+	<p><b>Flight Safety Foundation’s Gloria Heath Trophy</b></p>
+	<p>Ms Tan Siew Huay was awarded the Flight Safety Foundation’s Gloria Heath Trophy. The Gloria Heath Trophy recognises a woman for notable achievements in civil aviation, and Ms Tan is being recognised for her leadership on the international stage and for advancing aviation law and the industry.</p>
 </center>
 
-![](/images/ACCOLADES/CAAS/Project%20Haven.jpg)
+<div class="row">
+  <div class="col is-6">
+      <div class="speaker-image-wrapper">
+        <img class="img-fluid mb-3" src="/images/ACCOLADES/CAAS/RSAF_Chief_of_Air_Force_Safety_Award___Audrey.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+      </div>
+  </div>
+  <div class="col is-6">
+      <div class="speaker-image-wrapper">
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/CAAS/RSAF_Chief_of_Air_Force_Safety_Award___Farhan.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+      </div>
+  </div>
+</div>
+<center>
+	<p><b>RSAF Chief of Air Force Safety Award </b></p>
+	<p>Air Traffic Control Officers Tan Xin Fen Audrey and Mohd Farhan bin Mohd Taib were awarded the RSAF Chief of Air Force Safety Award for the facilitation of RSAF aircraft making emergency landing in Changi Airport</p>
+</center>
+
+![](/images/ACCOLADES/CAAS/Highest_Number_of_Trainees.jpg)
 
 <center>
-	<p><b>Public Sector Transformation Awards – Agility Award: Project Haven  </b></p>
-	<p>This award recognises outstanding efforts in planning, mobilising, and implementing new policies and programmes in a timely manner to respond to challenges and needs in a fast-changing operating landscape.</p>
+	<p><b>Highest Number of Trainees – Delivery of Member-ICAO Training Packages </b></p>
+	<p>Singapore Aviation Academy (SAA) received the “Highest Number of Trainees – Delivery of Member-ICAO Training Packages” award from ICAO at the TRAINAIR PLUS Programme Recognition Award Ceremony held in conjunction with the ICAO Global Implementation Support Symposium in Seoul, Republic of Korea, on 31 May 2023. This award is in recognition of SAA delivering 6 runs of self-developed ICAO courses in 2022, reaching out to 80 trainees from more than 40 countries.</p>
+
+</center>
+
+
+
+![](/images/ACCOLADES/CAAS/Platinium_Training.jpg)
+
+<center>
+	<p><b>Platinum Training Centre of Excellence  </b></p>
+	<p>This award is given to TRAINAIR PLUS Programme (TPP) Members who are playing a leading role in a region or globally, focusing on regulatory training, and actively supporting ICAO in its capacity-building efforts and effectively assisting ICAO Member States in the implementation of the ICAO Standards and Recommended Practices (SARPs) via the extensive delivery of ICAO training.</p>
 
 </center>
