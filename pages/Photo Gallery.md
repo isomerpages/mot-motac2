@@ -360,4 +360,4 @@ variant: markdown
 
 ![](/images/Photo_Gallery/176.jpg)
 
-Click [here](https://drive.google.com/drive/folders/1TN8qadzmDVjjUogKHlsEVm8_8BYYGqHK?usp=sharing) for more pictures from the event!
+Due to system limitation, some award photos cannot be uploaded onto the microsite. Please click [here](https://drive.google.com/drive/folders/1TN8qadzmDVjjUogKHlsEVm8_8BYYGqHK?usp=sharing) to view&nbsp;all&nbsp;photos.
