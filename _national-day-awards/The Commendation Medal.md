@@ -4,7 +4,7 @@ permalink: /national-day-awards/commendation-medal/
 description: ""
 variant: markdown
 ---
-![](/images/hero.png) 
+![](/images/banner_2025.jpg) 
 <center>
   <h2>THE COMMENDATION MEDAL</h2>
   <h3>[Pingat Kepujian]</h3>
