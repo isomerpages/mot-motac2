@@ -4,7 +4,7 @@ permalink: /national-day-awards/long-service-medal/
 description: ""
 variant: markdown
 ---
-![](/images/hero.png)
+![](/images/banner_2025.png)
 
 <center>
     <h2>THE LONG SERVICE MEDAL</h2>
