@@ -7,6 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Testing_Banner.jpg
+      background: /images/MOTAC_2025_Microsite_Banner_2810_x_719px_min.jpg
       variant: image
 ---
