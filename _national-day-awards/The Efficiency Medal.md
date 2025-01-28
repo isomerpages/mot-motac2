@@ -4,7 +4,7 @@ permalink: /national-day-awards/efficiency-medal/
 description: ""
 variant: markdown
 ---
-![](/images/hero.png) 
+![](/images/banner_2025.jpg) 
 <center>
   <h2>THE EFFICIENCY MEDAL</h2>
   <h3>[Pingat Berkebolehan]</h3>
