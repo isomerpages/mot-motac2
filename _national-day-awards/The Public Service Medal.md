@@ -11,4 +11,6 @@ variant: tiptap
 <h3>[Pingat Bakti Masyarakat]</h3>
 <p><strong>Mr Kitack Lim</strong>
 <br>Former Secretary-General, International Maritime Organisation (IMO)</p>
+<p><strong>Ms Mary Yeo Chor Gek, JP, PBM</strong>
+<br>Former Board member, Civil Aviation Authority of Singapore</p>
 <p></p>
