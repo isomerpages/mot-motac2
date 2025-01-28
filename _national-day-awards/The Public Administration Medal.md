@@ -4,7 +4,7 @@ permalink: /national-day-awards/public-administration-medal/
 description: ""
 variant: markdown
 ---
-![](/images/hero.png) 
+![](/images/banner_2025.jpg) 
 <center>
   <h2>THE PUBLIC ADMINISTRATION MEDAL (SILVER)</h2>
   <h3>[Pingat Pentadbiran Awam (Perak)]</h3>
