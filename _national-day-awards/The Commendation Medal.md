@@ -4,162 +4,268 @@ permalink: /national-day-awards/commendation-medal/
 description: ""
 variant: markdown
 ---
-![](/images/hero.png) 
+![](/images/banner_2025.jpg) 
 <center>
   <h2>THE COMMENDATION MEDAL</h2>
   <h3>[Pingat Kepujian]</h3>
 </center>
 <center>
-<p>
-    <b>Mr Tan Yan Tat Joel</b>
-    <br>Former Senior Assistant Director/International Relations, International Relations and Security Division, Ministry of Transport
+  
+  <p>
+    <b>Mr Ng Junsheng</b><br>
+    Head, Technical Support/ Senior Air Safety Investigator<br>
+    Transport Safety Investigation Bureau<br>
+    Ministry of Transport
   </p>
   <p>
-    <b>Ms Lam Pei Xin</b>
-    <br>Senior Assistant Director/Finance, Corporate Development Division, Ministry of Transport
+    <b>Mr Muhammad Hafidz bin Ja’afar</b><br>
+    Master Air Traffic Control Officer (Search and Rescue/Continuity Planning)<br>
+    Air Traffic Services<br>
+    Civil Aviation Authority of Singapore
   </p>
   <p>
-    <b>Mr Mohd Yusri Reki Bin Yusof</b>
-    <br>Advocate/Organisation Development and Engagement, Corporate Development Division, Ministry of Transport
+    <b>Mr Lee Chee Chong</b><br>
+    Chief (Standards)<br>
+    Air Traffic Services<br>
+    Civil Aviation Authority of Singapore
   </p>
   <p>
-    <b>Mr Tai Kit</b>
-    <br>Head Air Traffic Control Specialist (Search and Rescue / Contingency Planning), Air Traffic Services, Civil Aviation Authority of Singapore
+    <b>Ms Neu Siew Hong</b><br>
+    Senior Manager (Corporate Services and Information Management)<br>
+    Corporate Development &amp; Emergency Preparedness<br>
+    Civil Aviation Authority of Singapore
   </p>
   <p>
-    <b>Ms Chan Hwee Tuan</b>
-    <br>Air Traffic Control Specialist 7 (Operations Technology), Air Traffic Services, Civil Aviation Authority of Singapore
+    <b>Mr Li Wei'An Terence</b><br>
+    Head (Sector Development - Airport and Airlines)<br>
+    Aviation Industry<br>
+    Civil Aviation Authority of Singapore
   </p>
   <p>
-    <b>Mr Lee Chee Tong</b>
-    <br>Head (Airport Service Regulation), Airport Operations Regulation and Aviation Security, Civil Aviation Authority of Singapore
+    <b>Mr Lim Hong Heng</b><br>
+    Senior Principal Engineer (Air Traffic Management Platform Management)<br>
+    Air Navigation Services (Engineering)<br>
+    Civil Aviation Authority of Singapore
   </p>
   <p>
-    <b>Ms Soh Hwee Ping</b>
-    <br>Senior Assistant Director (Talent Management), Human Resource, Civil Aviation Authority of Singapore
+    <b>Ms Khoo Boon Hui Emily</b><br>
+    Head (End-User Experience)<br>
+    Transformation Office<br>
+    Civil Aviation Authority of Singapore
   </p>
   <p>
-    <b>Mr Lian Wee Cheong</b>
-    <br>Head (Design and Production Organisations), Flight Standards, Civil Aviation Authority of Singapore
+    <b>Mr Chew Keng Boon</b><br>
+    Head (IDTS Infrastructure and Services)<br>
+    Next Generation Programme Office<br>
+    Civil Aviation Authority of Singapore
   </p>
   <p>
-    <b>Mr Wan Thung Tat Dennis</b>
-    <br>Chief (School of Air Traffic Services), Singapore Aviation Academy, Civil Aviation Authority of Singapore
+    <b>Mr Mohammad Zaki Bin Ariffin</b><br>
+    Senior Manager (Resilience Building and Response)<br>
+    Cybersecurity &amp; Data Governance<br>
+    Civil Aviation Authority of Singapore
   </p>
   <p>
-    <b>Ms Kho Mui Lan</b>
-    <br>Senior Principal Manager (Digital Development), Transformation Office, Civil Aviation Authority of Singapore
+    <b>Mr Chia Yue-Leng Alvin</b><br>
+    Senior Assistant Director (Airport Economic Regulation)<br>
+    Airport Economic Regulation<br>
+    Civil Aviation Authority of Singapore
   </p>
   <p>
-    <b>Ms Sng Sin Hie</b>
-    <br>Head (Air Traffic Management System Integration), Aeronautical Telecommunications and Engineering, Civil Aviation Authority of Singapore
+    <b>Mr Ng Yew Chuan Sean</b><br>
+    Head (Hub Capacity)<br>
+    Air Transport<br>
+    Civil Aviation Authority of Singapore
+  </p>
+
+  
+  <p>
+    <b>Mr Lim Chang Woei</b><br>
+    Principal Project Manager<br>
+    2 North-South Corridor (Civil 4)<br>
+    North-South Corridor<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Tong How Koon Vincent</b>
-    <br>Deputy Head (Airworthiness Engineering), Flight Standards, Civil Aviation Authority of Singapore
+    <b>Mr Chng Chee Hian</b><br>
+    Senior Project Manager<br>
+    Fare System-Rail Projects &amp; Support<br>
+    Rail / Road Systems Engineering<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Lim Tong Liang</b>
-    <br>Senior Project Manager, Commuter Facility Construction, Road &amp; Commuter Infrastructure Development, Land Transport Authority
+    <b>Mr Lim Sen Lee</b><br>
+    Senior Manager, IT Systems<br>
+    Complex Processing Systems<br>
+    IT, Cybersecurity &amp; Digital Services<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Ms Lim Li Ying Rosalind</b>
-    <br>Senior Project Manager, 2 Cross Island Line Phase 1 (Civil Team 3), Thomson-East Coast &amp; Cross Island Lines, Land Transport Authority
+    <b>Mr Chan Chee Choon Chuck</b><br>
+    Principal Manager, Contracts<br>
+    1 Contracts (E&amp;M Services)<br>
+    Safety &amp; Contracts<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Ms Loh Feng Yih</b>
-    <br>Senior Manager, Appeals, Compliance Management, Traffic &amp; Road Operations, Land Transport Authority
+    <b>Mr Toh Say Leong</b><br>
+    Principal Manager, Survey<br>
+    Geomatics &amp; Survey<br>
+    Infrastructure Design &amp; Engineering<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Ms Tan Lay Hong</b>
-    <br>Senior Manager, Contracts, Contracts, Rail Expansion (Civil 1), Safety &amp; Contracts, Land Transport Authority
+    <b>Mr Chua Siang Hwa</b><br>
+    Manager, Facility Management &amp; Operations<br>
+    Administration Services<br>
+    Human Resource<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Ms Tay Tun Ling</b>
-    <br>Senior Manager, Infrastructure Protection, Policy &amp; Planning, Land Transport Authority
+    <b>Mr Ching Swee Leng Stanley</b><br>
+    Principal Project Manager<br>
+    Rail Expansion (Civil Team 2)<br>
+    Rail Infrastructure &amp; Expansion<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Tan Lip Chiang Cedric</b>
-    <br>Senior Manager, Intelligent Transport Systems Development, Transportation Technology, Land Transport Authority
+    <b>Mr Zulkarnai Bin Haron</b><br>
+    Project Manager<br>
+    Systems Integration &amp; Commissioning<br>
+    Rail (Electrical &amp; Mechanical)<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Ms Toh Ian Lee</b>
-    <br>Principal Manager, Civil &amp; Structures, Civil &amp; Structures, Infrastructure Design &amp; Engineering, Land Transport Authority
+    <b>Mr Teo Sze Ern, Joel</b><br>
+    Senior Manager, Transport Research<br>
+    Transport Research<br>
+    Technology &amp; Industry Development<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Saravanan Thiruneelakantan</b>
-    <br>Senior Project Manager, 2 Signalling &amp; Platform Screen Door, Rail (Electrical &amp; Mechanical), Land Transport Authority
+    <b>Mr Yang Jianping</b><br>
+    Senior Project Manager<br>
+    Road Construction 1 (Civil 1)<br>
+    Road &amp; Commuter Infrastructure Development<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Ong Kok Guan</b>
-    <br>Senior Project Manager, Rail Services 7, Rail (Electrical &amp; Mechanical), Land Transport Authority
+    <b>Mr Ho Loong Hing</b><br>
+    Senior Project Manager<br>
+    2 Thomson-East Coast Line (Civil Team 6)<br>
+    Thomson-East Coast &amp; Cross Island Lines<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Lim Liang Chuan</b>
-    <br>Senior Manager, Integrated Transport Operations Planning, Public Transport, Land Transport Authority
+    <b>Mr Yap Kuan Wei</b><br>
+    Manager<br>
+    Commuters Facilities Management<br>
+    Traffic &amp; Road Operations<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Ang Kok Wee</b>
-    <br>Principal Manager, Tunnel Ventilation &amp; Mechanical Services, Rail / Road Systems Engineering, Land Transport Authority
+    <b>Ms Yin Hui</b><br>
+    Principal Manager<br>
+    3 Local Planning (Car-Lite TRO &amp; Park Policy)<br>
+    Policy &amp; Planning<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Yap Kim Yeow</b>
-    <br>Principal Project Manager, 1 Rail Expansion (Civil Team 1), Rail Infrastructure &amp; Expansion, Land Transport Authority
+    <b>Ms Fu Wing Kay, Lydia</b><br>
+    Senior Manager, Operations Planning<br>
+    Point-To-Point Transport<br>
+    Public Transport<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Chin Teck Siew</b>
-    <br>Principal Project Manager, 1 Jurong Region Line (Civil Team 2), Rail Infrastructure &amp; Expansion, Land Transport Authority
+    <b>Ms Ng Xin Yi Cheryl</b><br>
+    Manager, Vehicle Quota<br>
+    Vehicle Quota &amp; Registration<br>
+    Vehicle Services<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Teo Eng Kwang</b>
-    <br>Manager, Asset Engineering (Power &amp; Services), Rail Asset, Operations &amp; Maintenance, Land Transport Authority
+    <b>Mr Phoa Hock Lye Patrick</b><br>
+    Principal Manager, Safety &amp; Health<br>
+    Construction Safety &amp; Health<br>
+    Safety &amp; Contracts<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Ng Li Wei, Calvin</b>
-    <br>Manager, VRL Service Transformation, VRL Service Transformation, Vehicle Services, Land Transport Authority
+    <b>Mr Abdul Razak Bin Omar</b><br>
+    Senior Project Manager<br>
+    Rail Services 5<br>
+    Rail (Electrical &amp; Mechanical)<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Sankar Ganapathy Iyer</b>
-    <br>Senior Manager, Programme Planning, 1 Programme Planning, Safety &amp; Contracts, Land Transport Authority
+    <b>Mr Pore Leng Chye</b><br>
+    Senior Manager<br>
+    Active Mobility Enforcement<br>
+    Traffic &amp; Road Operations<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Ms Fong Mun Yee</b>
-    <br>Senior Manager, Human Resource, Talent &amp; Leadership Development, Human Resource, Land Transport Authority
+    <b>Mr Lau Jing Xi</b><br>
+    Senior Project Manager<br>
+    3 Tunnelling<br>
+    Rail Infrastructure &amp; Expansion<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Mr Ong Weisen</b>
-    <br>Manager, LTA Programmes, LTA Academy, Learning Office, Land Transport Authority
+    <b>Mr Toh Yao Kwang, Andrew</b><br>
+    Senior Project Manager<br>
+    1 Cross Island Line Phase 2 (Civil Team 2)<br>
+    Thomson-East Coast &amp; Cross Island Lines<br>
+    Land Transport Authority
   </p>
   <p>
-    <b>Ms Haslinda Bte Abdul Rahman</b>
-    <br>Manager, PT Initiatives &amp; Events, Public Transport Promotion, Public Transport, Land Transport Authority
+    <b>Mr Ho Swee Chang</b><br>
+    Senior Manager<br>
+    Asset Engineering (Power &amp; Services)<br>
+    Rail Asset, Operations &amp; Maintenance<br>
+    Land Transport Authority
+  </p>
+
+  
+  <p>
+    <b>Mr New Chee Wee</b><br>
+    Principal Port Chemist<br>
+    Marine Safety and Port Operations<br>
+    Marine Environment &amp; Safety<br>
+    Maritime and Port Authority of Singapore
   </p>
   <p>
-    <b>Mr Lum Wai Keat</b>
-    <br>Senior Manager, Finance Digital Services, 1 Collections, Receivables &amp; Refunds, Finance, Land Transport Authority
+    <b>Mr Harad Fadillah Bin Abdul Gani</b><br>
+    Principal Watch Manager (Vessel Traffic Management)<br>
+    Marine Safety and Port Operations<br>
+    Vessel Traffic Management<br>
+    Maritime and Port Authority of Singapore
   </p>
   <p>
-    <b>Mr Ren Jianzhong</b>
-    <br>Principal Watch Manager (Vessel Traffic Management), Operations &amp; Marine Services, Vessel Traffic Management, Maritime and Port Authority of Singapore
+    <b>Mr Chua Chuen Hua, Benjamin</b><br>
+    Principal Engineer (Tuas Port Reclamation 1)<br>
+    Engineering &amp; Project Management<br>
+    Tuas Port Reclamation 1<br>
+    Maritime and Port Authority of Singapore
   </p>
   <p>
-    <b>Ms Chiok Pui San Sabrina</b>
-    <br>Assistant Director (Transformation &amp; Organisational Development), Transformation Office, Transformation &amp; Organisational Development, Maritime and Port Authority of Singapore
+    <b>Ms Chua Xiu Xian Clarissa</b><br>
+    Principal Manager (Internal Audit)<br>
+    Internal Audit<br>
+    Maritime and Port Authority of Singapore
   </p>
   <p>
-    <b>Mr Chiew Mun Kit, Nicholas</b>
-    <br>Senior Engineer (Port Systems Ops &amp; Support), Port Systems, Port Systems Ops &amp; Support, Maritime and Port Authority of Singapore
-  </p>
-  <p>
-    <b>Ms G Deepa</b>
-    <br>Senior Manager (Standards &amp; Investigation – Marine Fuel), Operations &amp; Marine Services, Standards &amp; Investigation – Marine Fuel, Maritime and Port Authority of Singapore
+    <b>Mr Tan Si-Rong</b><br>
+    Deputy Director<br>
+    Insights &amp; Advisory<br>
+    Public Transport Council
   </p>
 </center>
 
-*Source: Government Gazette Published on 9th August 2023*
 
 <style>
-	h3{
-	margin-top:0 !important;
-	}
+  h3 {
+    margin-top: 0 !important;
+  }
 </style>

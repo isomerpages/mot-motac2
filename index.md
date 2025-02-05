@@ -7,6 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/revised_Ministry_of_Transporta_Awards_Ceremony_2024_Microsite_Banner.jpg
+      background: /images/banner_2025.jpg
       variant: image
 ---
