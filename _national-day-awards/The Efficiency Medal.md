@@ -52,12 +52,12 @@ variant: markdown
 
 <p>
   <b>Mr Zaini Bin Md Sani</b><br>
-  Deputy Manager, Roads &amp; Parking<br>Planning Compliance<br>Policy &amp; Planning<br>Land Transport Authority
+  Deputy Manager, Roads &amp; Parking<br>1 Planning Compliance<br>Policy &amp; Planning<br>Land Transport Authority
 </p>
 
 <p>
   <b>Mr Yong Cheoh Hoe</b><br>
-  Senior Engineer<br>Signals<br>Rail / Road Systems Engineering<br>Land Transport Authority
+  Senior Engineer<br>2 Signals<br>Rail / Road Systems Engineering<br>Land Transport Authority
 </p>
 
 <p>
@@ -72,7 +72,7 @@ variant: markdown
 
 <p>
   <b>Mr Bong Zhao Zu, Joe</b><br>
-  Senior Project Engineer<br>Rail Services<br>Rail (Electrical &amp; Mechanical)<br>Land Transport Authority
+  Senior Project Engineer<br>Rail Services 6<br>Rail (Electrical &amp; Mechanical)<br>Land Transport Authority
 </p>
 
 <p>
@@ -92,7 +92,7 @@ variant: markdown
 
 <p>
   <b>Mr Kannan s/o P Kesavan</b><br>
-  Executive Engineer<br>Commuter Infrastructure Construction<br>Road &amp; Commuter Infrastructure Development<br>Land Transport Authority
+  Executive Engineer<br>Commuter Infrastructure Construction 1<br>Road &amp; Commuter Infrastructure Development<br>Land Transport Authority
 </p>
 
 <p>
@@ -107,7 +107,7 @@ variant: markdown
 
 <p>
   <b>Ms Lim Chiew Mun, Germaine</b><br>
-  Senior Project Admin Executive<br>Jurong Region Line (Civil Team)<br>Rail Infrastructure &amp; Expansion<br>Land Transport Authority
+  Senior Project Admin Executive<br>2 Jurong Region Line (Civil Team 2)<br>Rail Infrastructure &amp; Expansion<br>Land Transport Authority
 </p>
 
 <p>
@@ -117,7 +117,7 @@ variant: markdown
 
 <p>
   <b>Ms Tan Cai Qin</b><br>
-  Assistant Manager, Collections, Receivables &amp; Refunds<br>Collections, Receivables &amp; Refunds<br>Finance<br>Land Transport Authority
+  Assistant Manager, Collections, Receivables &amp; Refunds<br>1 Collections, Receivables &amp; Refunds<br>Finance<br>Land Transport Authority
 </p>
 
 <p>
@@ -132,7 +132,7 @@ variant: markdown
 
 <p>
   <b>Mr Tan Boon Hwa</b><br>
-  Senior Architectural Associate<br>Architecture<br>Infrastructure Design &amp; Engineering<br>Land Transport Authority
+  Senior Architectural Associate<br>3 Architecture<br>Infrastructure Design &amp; Engineering<br>Land Transport Authority
 </p>
 
 <p>
@@ -157,17 +157,17 @@ variant: markdown
 
 <p>
   <b>Ms Goh Hui Poh</b><br>
-  Principal Executive, Marketing Communications<br>Marketing Communications<br>Corporate Communications<br>Land Transport Authority
+  Principal Executive, Marketing Communications 2<br>Marketing Communications 2<br>Corporate Communications<br>Land Transport Authority
 </p>
 
 <p>
   <b>Mr Mohammad Siddiq Bin Abdul Sani</b><br>
-  Senior Planner, Active Mobility<br>Active Mobility<br>Land Transport Authority
+  Senior Planner, Active Mobility<br>1 Active Mobility<br>Land Transport Authority
 </p>
 
 <p>
   <b>Ms Siti Rohani Bte Kasmany</b><br>
-  Assistant Manager, Quality Service Operations<br>Quality Service Operations<br>Community &amp; Customer Engagement<br>Land Transport Authority
+  Assistant Manager, Quality Service Operations<br>Quality Service Operations<br>QSMO, Community &amp; Customer Engagement<br>Land Transport Authority
 </p>
 
 <p>
@@ -187,7 +187,7 @@ variant: markdown
 
 <p>
   <b>Ms Lin Jinyan</b><br>
-  Assistant Manager (Incentive Policy)<br>Business Capability Development<br>Incentive Policy<br>Maritime and Port Authority of Singapore
+  Assistant Manager (Incentive Policy)<br>Business Capability Development<br>IP Incentive Policy<br>Maritime and Port Authority of Singapore
 </p>
 
 <p>
