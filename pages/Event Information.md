@@ -21,7 +21,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.30pm</p>
+<p>6.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration for Award Recipients</p>
@@ -47,6 +47,9 @@ variant: markdown
 <p>Senior Minister of State for Transport and Sustainability and the Environment, <strong>Dr Amy Khor</strong>
 </p>
 </li>
+	<li>
+		<p>Minister of State for Law and Transport, <strong>Mr Murali Pillai</strong>
+	</p></li>
 <li class="mb-0">
 <p>Senior Parliamentary Secretary for Transport and Sustainability and the
 Environment, <strong>Mr Baey Yam Keng</strong>
@@ -99,23 +102,16 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.15pm</p>
+<p>8.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Presentation of Letter of Appreciation and Long Service Medal to Former CE PTC by Minister</p>
+<p>Live Band Performance</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8.20pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Instrumental Performance</p>
-</td>
-</tr>
+
 <tr>
 <td rowspan="2" colspan="1">
-<p>8.35pm</p>
+<p>8.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Screening of the Minister’s VFM Achievement Award Video</p>
@@ -128,28 +124,28 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.55pm</p>
+<p>8.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Instrumental Performance</p>
+<p>Live Band Performance</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>9.10pm</p>
+<p>9.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Screening of the MI Award Video</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Presentation of MI Award by Minister</p>
+<p>Screening of the Minister's Innovation Award Video</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.55pm</p>
+<p>Presentation of Minister's Innovation Award by Minister</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Screening of the Event Finale Video</p>
@@ -157,7 +153,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.00pm</p>
+<p>9.35pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>End of Ceremony</p>
