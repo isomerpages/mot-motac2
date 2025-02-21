@@ -21,7 +21,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.30pm</p>
+<p>6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration for Award Recipients</p>
