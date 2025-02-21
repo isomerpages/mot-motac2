@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kv" src="/images/hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="kv" src="/images/banner_2025.jpg">
 </div>
 <table>
 <tbody>
