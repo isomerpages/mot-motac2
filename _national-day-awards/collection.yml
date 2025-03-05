@@ -2,8 +2,8 @@ collections:
   national-day-awards:
     output: true
     order:
-      - THE MERITORIOUS SERVICE MEDAL.md
       - The Public Service Star.md
+      - THE MERITORIOUS SERVICE MEDAL.md
       - The Public Administration Medal.md
       - The Commendation Medal.md
       - The Efficiency Medal.md
