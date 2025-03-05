@@ -4,17 +4,17 @@ permalink: /accolades/mot/
 description: ""
 variant: markdown
 ---
-![](/images/hero.png)
+![](/images/banner_2025.jpg)
 
 <center>
-	<h2>Ministry of Transport</h2>
-</center>
+			<h2>Ministry of Transport</h2>
+	</center>
 
-![](/images/ACCOLADES/MOT/ComChest.jpg)
+![](/images/ACCOLADES/MOT/MOT___SHARE_Bronze.jpg)
 
 <center>
-	<p><b>Community Chest Award – SHARE Gold </b></p>
-	<p>It is an annual award to honour organisations and individuals who have made significant contributions to the Community Chest via the SHARE programme, allowing them to continue funding the social service organisations they support on a regular basis. </p>
+	<p><b>SHARE Bronze Award </b></p>
+	<p>The SHARE Award honours contribution via the SGSHARE programme, where donations will allow Community Chest to continue funding the social service organisations they support on a regular basis. </p>
 </center>
 
 <div class="row">
