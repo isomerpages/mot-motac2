@@ -18,21 +18,27 @@ variant: markdown
 </center>
 
 <div class="row">
-  <div class="col is-6">
+  <div class="col is-4">
       <div class="speaker-image-wrapper">
-        <img class="img-fluid mb-3" src="/images/ACCOLADES/MOT/Best_SEO.jpg" alt="Best_SEO">
-				<center class="mb-0"><p class="text-center"><b>Whole of Government Digital Services Awards: Best Search Engine Optimisation </b></p></center>
+        <img class="img-fluid mb-3" src="/images/ACCOLADES/MOT/Best_SEO_new.jpg" alt="Best_SEO">
+				<center class="mb-0"><p class="text-center"><b>Digital Service Awards (DSA) 2024 Best SEO Award</b></p></center>
       </div>
   </div>
-  <div class="col is-6">
+  <div class="col is-4">
       <div class="speaker-image-wrapper">
-        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MOT/Best_Accessibility.jpg" alt="Best_Accessibility">
-					<center class="mb-0"><p class="text-center"><b>Whole of Government Digital Services Awards: Best Accessibility  </b></p></center>
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MOT/Best_Accessbility.jpg" alt="Best_Accessibility">
+					<center class="mb-0"><p class="text-center"><b>Digital Service Awards (DSA) 2024 Best Accessibility Award </b></p></center>
+      </div>
+  </div>
+	<div class="col is-4">
+      <div class="speaker-image-wrapper">
+       <img class="img-fluid mb-3" src="/images/ACCOLADES/MOT/Best_SEO_new.jpg" alt="Best_SEO">
+				<center class="mb-0"><p class="text-center"><b>Top 10 Most Mobile Optimised Websites</b></p></center>
       </div>
   </div>
 </div>
 <center class="mt-0">
-	<p>It is an annual event organised by GovTech to recognise outstanding achievements and excellence in delivering digital services to the public. </p>
+	<p>The Digital Service Awards (DSA) 2024 is an annual event organised by GovTech to recognise outstanding achievements and excellence in delivering digital services to the public. </p>
 </center>
 
 ![](/images/ACCOLADES/MOT/National_Effort_to_Electrify_Singapore_Vehicle_Population.jpg)
