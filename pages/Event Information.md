@@ -81,7 +81,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acknowledgement of the MOT Family Higher NDA Recipients</p>
+<p>Acknowledgement of the Minister of Transport Family Higher National Day Awards Recipients</p>
 </td>
 </tr>
 <tr>
@@ -114,12 +114,12 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 <p>8.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Screening of the Minister’s VFM Achievement Award Video</p>
+<p>Screening of the Minister’s Value-for-Money Achievement Award Video</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Presentation of the Minister’s VFM Achievement Award by Minister</p>
+<p>Presentation of the Minister’s Value-for-Money Achievement Award</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Presentation of Minister's Innovation Award by Minister</p>
+<p>Presentation of Minister's Innovation Award</p>
 </td>
 </tr>
 <tr>
