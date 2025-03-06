@@ -42,8 +42,3 @@ variant: markdown
 	<p><b>SHARE Bronze Award </b></p>
 	<p>The SHARE Award honours contribution via the SGSHARE programme, where donations will allow Community Chest to continue funding the social service organisations they support on a regular basis. </p>
 </center>
-
-
-
-
-
