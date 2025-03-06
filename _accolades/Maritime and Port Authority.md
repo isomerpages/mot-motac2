@@ -91,14 +91,12 @@ variant: markdown
 	</div>
 	
 ![](/images/ACCOLADES/MPA/AFLAS_2024.jpg)
-	
 <center>
 <p><b>Asian Freight, Logistics and Supply Chain Awards</b><br><b>"Best Seaport in Asia" for the 36th time</b></p>
 <p>The annual Asian Freight, Logistics and Supply Chain Awards is organised by freight and logistics publication, Asia Cargo News, to honour leading service providers in the supply chain community for demonstrating leadership as well as consistency in service quality, innovation, customer relationship management and reliability.</p>
 </center>	
 	
 ![](/images/ACCOLADES/MPA/Trailblazers_Transformation_Award.gif)
-	
 <center>
 <p><b>AI Trailblazers - Trailblazers Transformation Award</b></p>
 <p>The Trailblazers Transformation Award (under “AI Trailblazers”, a joint initiative by MCI, DISG, SNDGO, and Google Cloud) recognises the top teams that have shown strong technical competencies, admirable attitude, and have developed a functioning generative AI product with considerable impact/value.</p>
