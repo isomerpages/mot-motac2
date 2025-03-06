@@ -9,12 +9,10 @@ variant: markdown
 <div><center>
 			<h2>Ministry of Transport</h2>
 	</center></div>
-	<div>
-	<center>
-<p><b>Digital Service Awards (DSA) 2024</b></p>
-<p>The Digital Service Awards (DSA) 2024 is an annual event organised by GovTech to recognise outstanding achievements and excellence in delivering digital services to the public. </p>
-	</center>
-</div>
+
+<center><p><b>Digital Service Awards (DSA) 2024</b></p>
+<p>The Digital Service Awards (DSA) 2024 is an annual event organised by GovTech to recognise outstanding achievements and excellence in delivering digital services to the public. </p></center>
+	
 <div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
