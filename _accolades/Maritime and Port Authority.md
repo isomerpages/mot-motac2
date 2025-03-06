@@ -70,8 +70,10 @@ variant: markdown
 			<p><b>Dare to Do Award - Singapore's first ship-to-container ship methanol bunkering with NEA, NParks, PCG and SCDF - Green and Digital Shipping</b></p>
 </div>
 	</div>
-	<center><p><b>Corridor (GDSC)</b></p></center>
-	<div class="row">
+	
+<div><center><b>Corridor (GDSC)</b></center>
+	
+<div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_Kevin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
@@ -138,4 +140,4 @@ variant: markdown
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___The_Rising_Digital_Star.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 		<p><b>Digital Society Award - Digital Port Ecosystem</b></p>
-</div></div>
+</div></div></div>
