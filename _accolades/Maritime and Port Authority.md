@@ -4,17 +4,17 @@ permalink: /accolades/mpa/
 description: ""
 variant: markdown
 ---
-![](/images/hero.png)
+![](/images/banner_2025.jpg)
 
 <center>
 	<h2>Maritime and Port Authority</h2>
 </center>
 
-![](/images/ACCOLADES/MPA/ShipTek_International_Maritime_Award_2023.jpg)
+![](/images/ACCOLADES/MPA/2024_Charity_Bronze___MPA.jpg)
 
 <center>
-	<p><b>Shiptek International Maritime Awards 2023</b></p>
-	<p>MPA was presented the CSR Award of the Year by ShipTek International Maritime Awards, in recognition for MPA’s multiple green initiatives to reduce the environmental impact of shipping and related activities, as well as promoting clean and green shipping in Singapore.</p>
+	<p><b>Charity Bronze Award and SHARE Gold Award</b></p>
+	<p>The Charity Award is presented to organisations and individuals who have made significant donations to Community Chest via outright donations, funds raised from events and SGSHARE while the SHARE Award honours contributions via the SGSHARE programme only. All of these donations will allow Community Chest to continue funding the social service organisations they support on a regular basis.</p>
 </center>
 
 ![](/images/ACCOLADES/MPA/AFLAS_2023.jpg)
