@@ -35,6 +35,7 @@ variant: markdown
 <center>
 	<p>The Public Service Science, Technology and Engineering Conference 2024 gathered many Public Service Science, Technology and Engineering (STE) leaders and professionals to share ideas, collaborate, and strengthen networks. Aiming to ignite innovation in Singapore’s public sector, the event also recognised seven projects (including MPA’s) led by the various Public Service STE agencies.</p>
 </center>
+
 <div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
@@ -47,6 +48,7 @@ variant: markdown
       </div>
 </div>
 	</div>
+	
 <center>
 	<p><b>Champions of Good</b></p>
 	<p>At the Company of Good Conferment 2024, 290 organisations were conferred as “Companies of Good”, with “Champions of Good” being the highest award category. These exemplary organisations demonstrated progressive commitment to Corporate Purpose and made holistic contributions in the five impact areas of People, Society, Governance, Environment, and Economic at a national level.</p>
@@ -56,6 +58,7 @@ variant: markdown
 	<p><b>Public Sector Transformation (PST) Awards</b></p>
 	<p>The PST Awards is the Whole-of-Government pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices. The awards are aimed at encouraging officers and agencies to pursue PST by recognising best practices, as well as desired behaviours and values that undergird achievements.</p>
 </center>
+
 <div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
