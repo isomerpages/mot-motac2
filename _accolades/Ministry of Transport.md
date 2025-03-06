@@ -34,7 +34,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6">
       <div class="speaker-image-wrapper">
-       <img class="img-fluid mb-3" src="/images/ACCOLADES/MOT/Best_SEO_new.jpg" alt="Best_SEO">
+       <img src="" alt="Best_SEO">
 				<center class="mb-0"><p class="text-center"><b>Top 10 Most Mobile Optimised Websites</b></p></center>
       </div>
   </div>
