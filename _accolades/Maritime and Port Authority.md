@@ -11,7 +11,6 @@ variant: markdown
 </center>
 
 ![](/images/ACCOLADES/MPA/2024_Charity_Bronze___MPA.jpg)
-
 <center>
 	<p><b>Charity Bronze Award and SHARE Gold Award</b></p>
 	<p>The Charity Award is presented to organisations and individuals who have made significant donations to Community Chest via outright donations, funds raised from events and SGSHARE while the SHARE Award honours contributions via the SGSHARE programme only. All of these donations will allow Community Chest to continue funding the social service organisations they support on a regular basis.</p>
