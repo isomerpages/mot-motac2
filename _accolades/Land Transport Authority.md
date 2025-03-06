@@ -41,6 +41,3 @@ variant: markdown
 	<p><b>Ong Teng Cheong Labour Leadership Institute Workplace Partnership Award</b></p>
 	<p>The Ong Teng Cheong Labour Leadership Institute Workplace Partnership Award honours unions and companies that have made efforts to forge and strengthen labour-management relations.</p>
 	</center>
-	
-	
-
