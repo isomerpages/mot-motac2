@@ -14,6 +14,6 @@ description: ""
 <center>
 <p><strong>Mr Niam Chiang Meng</strong>
 <br>Chairman, Gardens by the Bay</p>
-
-
+<p><strong>Mr Richard Lim Cherng Yih</strong>
+<br>Chairman, Synapxe Pte Ltd<br>Chairman, Energy Market Authority</p>
 	</center>
