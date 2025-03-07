@@ -89,8 +89,8 @@ variant: markdown
 			<p><b>One Public Service Award - Singapore Pavilion @ COP (WOG Level award) - CLC, MAS, MND, MPA, MOT, MSE, MTI, NCCS, PMO</b></p>
 </div>
 	</div>
-	
-	![]/images/ACCOLADES/MPA/Aflas_2024.jpg
+
+![Aflas_2024](/images/ACCOLADES/MPA/Aflas_2024.jpg)
 <center>
 <p><b>Asian Freight, Logistics and Supply Chain Awards</b><br><b>"Best Seaport in Asia" for the 36th time</b></p>
 <p>The annual Asian Freight, Logistics and Supply Chain Awards is organised by freight and logistics publication, Asia Cargo News, to honour leading service providers in the supply chain community for demonstrating leadership as well as consistency in service quality, innovation, customer relationship management and reliability.</p>
