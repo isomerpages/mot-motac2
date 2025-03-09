@@ -5,21 +5,25 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_2025.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM6/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM6%202024%202025/MOTAC_2025_VFM_Merit_6_WebContents_01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM6/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM6%202024%202025/MOTAC_2025_VFM_Merit_6_WebContents_02.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM6/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM6%202024%202025/MOTAC_2025_VFM_Merit_6_WebContents_03.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM6/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM6%202024%202025/MOTAC_2025_VFM_Merit_6_WebContents_04.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM6%202024%202025/MOTAC_2025_VFM_Merit_6_WebContents_05.jpg">
 </div>
