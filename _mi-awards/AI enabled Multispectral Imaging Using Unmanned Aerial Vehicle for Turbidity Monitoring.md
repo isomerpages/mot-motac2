@@ -6,37 +6,57 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_2025.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_02.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_03.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_04.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8/5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_05.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8/6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_06.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8/7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_07.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8/8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_08.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_09.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_13.jpg">
 </div>
