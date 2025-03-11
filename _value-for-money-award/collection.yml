@@ -2,6 +2,7 @@ collections:
   value-for-money-award:
     output: true
     order:
+      - MPA Service Delivery 2.md
       - Utilisation Of CRL Locomotives For Track Related Installation Program.md
       - Min VFM Award Video.md
       - Upgrading Of Legacy System To Improve Cybersecurity Posture.md
