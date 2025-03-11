@@ -2,6 +2,7 @@ collections:
   value-for-money-award:
     output: true
     order:
+      - Utilisation Of CRL Locomotives For Track Related Installation Program.md
       - Min VFM Award Video.md
       - Upgrading Of Legacy System To Improve Cybersecurity Posture.md
       - Innovative Semi Balanced Excavation For RTS Link Construction.md
