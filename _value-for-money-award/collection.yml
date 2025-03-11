@@ -2,8 +2,6 @@ collections:
   value-for-money-award:
     output: true
     order:
-      - MPA Service Delivery 2.md
-      - Utilisation Of CRL Locomotives For Track Related Installation Program.md
       - Min VFM Award Video.md
       - Upgrading Of Legacy System To Improve Cybersecurity Posture.md
       - Innovative Semi Balanced Excavation For RTS Link Construction.md
@@ -16,3 +14,5 @@ collections:
       - Less Is More Implementation Of NS3A Station.md
       - Permanent Crosshead Enlargement For SPLRT piers Bearing Replacement.md
       - Smart Variable Message Sign (VMS) System.md
+      - Utilisation Of CRL Locomotives For Track Related Installation Program.md
+      - MPA Service Delivery 2.md
