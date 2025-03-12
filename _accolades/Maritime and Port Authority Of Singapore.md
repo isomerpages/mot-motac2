@@ -21,14 +21,14 @@ variant: markdown
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/STEC_jpg.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
-		<p><strong>Public Service Science, Technology and Engineering Innovation Challenge - Distinction Award</strong></p>
+		<center><p><strong>Public Service Science, Technology and Engineering Innovation Challenge - Distinction Award</strong></p></center>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/STEC1_jpg.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
-		<p><strong>Successful Completion of World's first Ship-to-Containership Methanol Bunkering Operation in the Port of Singapore</strong></p>
-  </div>
+		<center><p><strong>Successful Completion of World's first Ship-to-Containership Methanol Bunkering Operation in the Port of Singapore</strong></p></center>
+			</div>
 </div>
 
 <center>
@@ -63,30 +63,30 @@ variant: markdown
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_gavin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
-		<p><b>Service Delivery Excellence Award - Digital Port Ecosystem</b></p>
+		<center><p><b>Service Delivery Excellence Award - Digital Port Ecosystem</b></p></center>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_GDSC.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI\_\_\_Dare\_to\_do\_Award.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
-			<p><b>Dare to Do Award - Singapore's first ship-to-container ship methanol bunkering with NEA, NParks, PCG and SCDF - Green and Digital Shipping</b></p>
+			<center><p><b>Dare to Do Award - Singapore's first ship-to-container ship methanol bunkering with NEA, NParks, PCG and SCDF - Green and Digital Shipping</b></p></center>
 </div>
 	</div>
 	
-<div><center><b>Corridor (GDSC)</b></center>
+<div><center><b>Corridor (GDSC) behind Shipping</b></center>
 	
 <div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_Kevin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
-		<p><b>Exemplary SkillsFuture @ Public Service Award - Ching Kian Weng, KelvinS</b></p>
+		<center><p><b>Exemplary SkillsFuture @ Public Service Award - Ching Kian Weng, KelvinS</b></p></center>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/CE_and_Recipients_at_PST_Awards_Ceremony.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
-			<p><b>One Public Service Award - Singapore Pavilion @ COP (WOG Level award) - CLC, MAS, MND, MPA, MOT, MSE, MTI, NCCS, PMO</b></p>
+			<center><p><b>One Public Service Award - Singapore Pavilion @ COP (WOG Level award) - CLC, MAS, MND, MPA, MOT, MSE, MTI, NCCS, PMO</b></p></center>
 </div>
 	</div>
 	
@@ -98,7 +98,7 @@ variant: markdown
 	
  ![](/images/ACCOLADES/MPA/Trailblazers_Transformation_Award_2024.gif)
 
-	<center>
+<center>
 <p><b>AI Trailblazers - Trailblazers Transformation Award</b></p>
 <p>The Trailblazers Transformation Award (under “AI Trailblazers”, a joint initiative by MCI, DISG, SNDGO, and Google Cloud) recognises the top teams that have shown strong technical competencies, admirable attitude, and have developed a functioning generative AI product with considerable impact/value.</p>
 </center>
@@ -112,31 +112,31 @@ variant: markdown
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Digital_Leader_of_the_Year.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
-		<p><b>Digital Leader of the Year Award - Chiam Choon Yee</b></p>
+		<center><p><b>Digital Leader of the Year Award - Chiam Choon Yee</b></p></center>
   </div>
   <div class="col is-4">
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___The_Rising_Digital_Star.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
-			<p><b>Rising Digital Star Award - Sheila Teo</b></p>
+		<center><p><b>Rising Digital Star Award - Sheila Teo</b></p></center>
 </div>
 	 <div class="col is-4">
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Innovator_of_the_Year.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
-			<p><b>Innovator of the Year Award - Eugene Khoo</b></p>
+<center><p><b>Innovator of the Year Award - Eugene Khoo</b></p></center><p></p>
 </div>
 	</div>
 	<div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Digital_Leader_of_the_Year.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img class="img-fluid mb-3" src="" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
-		<p><b>Dare To Do Award - Ranabir Chakravarty</b></p>
+		<center><p><b>Dare To Do Award - Ranabir Chakravarty</b></p></center>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___The_Rising_Digital_Star.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
-		<p><b>Digital Society Award - Digital Port Ecosystem</b></p>
+		<center><p><b>Digital Society Award - Digital Port Ecosystem</b></p></center>
 </div></div></div>
