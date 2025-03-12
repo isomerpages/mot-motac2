@@ -89,7 +89,7 @@ variant: markdown
       </div>
 			<center><p><b>One Public Service Award - Singapore Pavilion @ COP (WOG Level award) - CLC, MAS, MND, MPA, MOT, MSE, MTI, NCCS, PMO</b></p></center>
 </div>
-	</div>
+	</div></div>
 	
 ![](/images/ACCOLADES/MPA/Aflas_2024.jpg)
 	
@@ -142,4 +142,4 @@ variant: markdown
       </div>
 <center><p><b>Digital Society Award - Digital Port Ecosystem</b></p></center>
 </div>
-</div></div>
+</div>
