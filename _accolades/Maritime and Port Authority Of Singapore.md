@@ -19,13 +19,13 @@ variant: markdown
 <div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/STEC_jpg.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img style="height: 200px;" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/STEC_jpg.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><strong>Public Service Science, Technology and Engineering Innovation Challenge - Distinction Award</strong></p></center>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/STEC1_jpg.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img style="height: 200px;" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/STEC1_jpg.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 		<center><p><strong>Successful Completion of World's first Ship-to-Containership Methanol Bunkering Operation in the Port of Singapore</strong></p></center>
 			</div>
@@ -38,12 +38,12 @@ variant: markdown
 <div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__1_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img style="height: 200px;" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__1_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__2_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img style="height: 200px;" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__2_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 </div>
 	</div>
@@ -61,13 +61,13 @@ variant: markdown
 <div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img style="height: 115px; width:100px;" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_gavin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img style="height: 200px;" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_gavin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Service Delivery Excellence Award - Digital Port Ecosystem</b></p></center>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img style="height: 115px; width:100px;" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_GDSC.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img style="height: 200px;" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_GDSC.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 			<center><p><b>Dare to Do Award - Singapore's first ship-to-container ship methanol bunkering with NEA, NParks, PCG and SCDF - Green and Digital Shipping</b></p></center>
 </div>
@@ -78,13 +78,13 @@ variant: markdown
 <div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img style="height: 115px; width:100px;" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_Kevin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img style="height: 200px;" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_Kevin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Exemplary SkillsFuture @ Public Service Award - Ching Kian Weng, KelvinS</b></p></center>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img style="height: 115px; width:100px;" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/CE_and_Recipients_at_PST_Awards_Ceremony.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img style="height: 200px;" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/CE_and_Recipients_at_PST_Awards_Ceremony.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 			<center><p><b>One Public Service Award - Singapore Pavilion @ COP (WOG Level award) - CLC, MAS, MND, MPA, MOT, MSE, MTI, NCCS, PMO</b></p></center>
 </div>
@@ -130,7 +130,7 @@ variant: markdown
 	<div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI\_\_\_Dare\_to\_do\_Award.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img class="img-fluid mb-3" src="" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Dare To Do Award - Ranabir Chakravarty</b></p></center>
   </div>
