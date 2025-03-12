@@ -12,7 +12,8 @@ variant: markdown
 
 <center><p><b>Digital Service Awards (DSA) 2024</b></p>
 <p>The Digital Service Awards (DSA) 2024 is an annual event organised by GovTech to recognise outstanding achievements and excellence in delivering digital services to the public. </p></center>
-	<center class="mb-0"><p class="text-center"><b>Top 10 Most Mobile Optimised Websites</b></p></center>
+
+<center class="mb-0"><p class="text-center"><b>Top 10 Most Mobile Optimised Websites</b></p></center>
 
   <div>
       <div class="speaker-image-wrapper">
@@ -26,8 +27,6 @@ variant: markdown
 					<center class="mb-0"><p class="text-center"><b>Best Accessibility Award </b></p></center>
       </div>
   </div>
-
-
 
 ![](/images/ACCOLADES/MOT/MOT___SHARE_Bronze.jpg)
 
