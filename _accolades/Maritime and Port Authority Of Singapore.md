@@ -130,7 +130,7 @@ variant: markdown
 	<div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="img-fluid mb-3" src="" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI\_\_\_Dare\_to\_do\_Award.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Dare To Do Award - Ranabir Chakravarty</b></p></center>
   </div>
