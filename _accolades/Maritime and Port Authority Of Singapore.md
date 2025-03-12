@@ -129,7 +129,8 @@ variant: markdown
 <center><p><b>Innovator of the Year Award - Eugene Khoo</b></p></center><p></p>
 </div>
 	</div>
-	<div class="row">
+
+<div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Dare_to_do_Award.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
