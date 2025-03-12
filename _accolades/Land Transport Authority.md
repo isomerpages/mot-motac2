@@ -32,7 +32,7 @@ variant: markdown
 	
 ![](/images/ACCOLADES/LTA/Public_Service_Science__Technology___Engineering_Excellence_Award_2024.jpg)
 <center>
-	<p><b>Public Service Science, Technology &amp; Engineering Excellence Award 2024</b><br><b>Underpinning of NSL MRT Tunnels by Rectangular TBM and Construction of New Mined Tunnels with Ground Freezing Method at Marina Bay Station"</b></p>
+	<p><b>Public Service Science, Technology &amp; Engineering Excellence Award 2024</b><br><b>Underpinning of NSL MRT Tunnels by Rectangular TBM and Construction of New Mined Tunnels with Ground Freezing Method at Marina Bay Station</b></p>
 	<p>The Public Service Science, Technology and Engineering Conference 2024 gathered many Public Service Science, Technology and Engineering (STE) leaders and professionals to share ideas, collaborate, and strengthen networks. Aiming to ignite innovation in Singapore’s public sector, the event also recognised seven projects (including LTA) led by the various Public Service STE agencies.</p>
 	</center>
 	
