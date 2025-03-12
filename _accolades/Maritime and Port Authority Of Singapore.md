@@ -43,7 +43,7 @@ variant: markdown
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 300px" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__2_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img style="height: 250px; width: 300px" class="speaker-image" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__2_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 </div>
 	</div>
@@ -130,13 +130,14 @@ variant: markdown
 	<div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="img-fluid mb-3" src="![](/images/ACCOLADES/MPA/FOI___Dare_to_do_Award.jpg)" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Dare_to_do_Award.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Dare To Do Award - Ranabir Chakravarty</b></p></center>
-  </div>
+		</div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___The_Rising_Digital_Star.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
-		<center><p><b>Digital Society Award - Digital Port Ecosystem</b></p></center>
-</div></div></div>
+<center><p><b>Digital Society Award - Digital Port Ecosystem</b></p></center>
+</div>
+</div></div>
