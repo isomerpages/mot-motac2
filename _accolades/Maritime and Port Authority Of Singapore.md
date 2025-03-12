@@ -78,13 +78,13 @@ variant: markdown
 <div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 300px" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_Kevin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img style="height: 250px; width: 400px" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_Kevin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Exemplary SkillsFuture @ Public Service Award - Ching Kian Weng, KelvinS</b></p></center>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 300px" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/CE_and_Recipients_at_PST_Awards_Ceremony.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img style="height: 250px; width: 400px" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/CE_and_Recipients_at_PST_Awards_Ceremony.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 			<center><p><b>One Public Service Award - Singapore Pavilion @ COP (WOG Level award) - CLC, MAS, MND, MPA, MOT, MSE, MTI, NCCS, PMO</b></p></center>
 </div>
@@ -96,7 +96,7 @@ variant: markdown
 <p>The annual Asian Freight, Logistics and Supply Chain Awards is organised by freight and logistics publication, Asia Cargo News, to honour leading service providers in the supply chain community for demonstrating leadership as well as consistency in service quality, innovation, customer relationship management and reliability.</p>
 </center>	
 	
- ![](/images/ACCOLADES/MPA/Trailblazers_Transformation_Award_2024.gif)
+![](/images/ACCOLADES/MPA/Trailblazers_Transformation_Award_2024.gif)
 
 <center>
 <p><b>AI Trailblazers - Trailblazers Transformation Award</b></p>
