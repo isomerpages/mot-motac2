@@ -43,21 +43,20 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_09.jpg">
 </div>
-<p>Rigid inclusion foundation system for container yard and the performance monitored from pilot tests</p><p>
-<a href="https://drive.google.com/file/d/1cWXb6HazQQ86Kf9ooZ1PsP7yJi6A3CoX/view">https://drive.google.com/file/d/1cWXb6HazQQ86Kf9ooZ1PsP7yJi6A3CoX/view</a>
-</p><p></p>
+
+<a href="https://drive.google.com/file/d/1cWXb6HazQQ86Kf9ooZ1PsP7yJi6A3CoX/view">Rigid inclusion foundation system for container yard and the performance monitored from pilot tests</a>
+<p></p><p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_10.jpg">
 </div>
-<p>Workshop on Rigid Inclusion Foundation System for Container Yard: Pilot Test - Installation, Instrumentation</p><p>
-<a href="https://drive.google.com/file/d/13mOB3uHE6YtqibboJKhGs9luDbu8duHP/view">https://drive.google.com/file/d/13mOB3uHE6YtqibboJKhGs9luDbu8duHP/view</a>
-</p><p></p>
+
+<a href="https://drive.google.com/file/d/13mOB3uHE6YtqibboJKhGs9luDbu8duHP/view">Workshop on Rigid Inclusion Foundation System for Container Yard: Pilot Test - Installation, Instrumentation</a>
+<p></p><p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_11.jpg">
 </div>
-<p>Guideline for Rigid Inclusion Foundation System for&nbsp;Container&nbsp;Yards</p><p>
-<a href="https://drive.google.com/file/d/1fWCMqUW16ldvG3CwIbufU4Rc7V6D51uA/view">https://drive.google.com/file/d/1fWCMqUW16ldvG3CwIbufU4Rc7V6D51uA/view</a>
-</p><p></p>
+<a href="https://drive.google.com/file/d/1fWCMqUW16ldvG3CwIbufU4Rc7V6D51uA/view">Guideline for Rigid Inclusion Foundation System for&nbsp;Container&nbsp;Yards</a>
+<p></p><p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM8%202024%202025/MOTAC_2025_MI_Merit_8_WebContents_12.jpg">
 </div>
