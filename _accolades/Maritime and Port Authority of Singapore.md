@@ -118,12 +118,10 @@ variant: markdown
       </div>
 		<center><p><b>Rising Digital Star Award - Sheila Teo</b></p></center>
 </div>
-	 <div>
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Innovator_of_the_Year.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 <center><p><b>Innovator of the Year Award - Eugene Khoo</b></p></center>	
-</div>
   <div>
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Dare_to_do_Award.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
