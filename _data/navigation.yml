@@ -2,9 +2,9 @@ logo: /images/MOTAC_Logo_Clr_2.png
 links:
   - title: Home
     url: /motac24-25/
-  - title: Innovation Award
-    collection: mi-awards
   - title: National Day Awards
     collection: national-day-awards
   - title: Value of Money Awards
     collection: value-for-money-award
+  - title: Innovation Award
+    collection: mi-awards
