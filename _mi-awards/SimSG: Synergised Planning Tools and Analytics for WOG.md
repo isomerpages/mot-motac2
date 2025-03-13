@@ -49,7 +49,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/ID2%202024%202025/MOTAC_2025_MI_Distinguished_2_WebContents_R1_11.jpg.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/ID2%202024%202025/MOTAC_2025_MI_Distinguished_2_WebContents_R1_11.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
