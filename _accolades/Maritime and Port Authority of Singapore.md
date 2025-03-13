@@ -132,7 +132,7 @@ variant: markdown
 		</div>
   <div>
       <div class="speaker-image-wrapper">
-        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___The_Rising_Digital_Star.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___The_Digital_Economy.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 <center><p><b>Digital Society Award - Digital Port Ecosystem</b></p></center>
 </div>
