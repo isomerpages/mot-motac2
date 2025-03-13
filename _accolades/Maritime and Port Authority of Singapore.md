@@ -75,7 +75,7 @@ variant: markdown
 
   <div>
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 400px" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_Kevin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_Kevin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Exemplary SkillsFuture @ Public Service Award - Ching Kian Weng, KelvinS</b></p></center>
   </div>
@@ -121,7 +121,9 @@ variant: markdown
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Innovator_of_the_Year.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 <center><p><b>Innovator of the Year Award - Eugene Khoo</b></p></center>
+	
 <p></p>
+	
 </div>
   <div>
       <div class="speaker-image-wrapper">
