@@ -9,7 +9,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM8%202024%202025/MOTAC_2025_VFM_Merit_8_WebContents.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM8%202024%202025/motac_2025_vfm_merit_8_webcontents_01_n.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -29,7 +29,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM8%202024%202025/MOTAC_2025_VFM_Merit_8_WebContents_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM8%202024%202025/motac_2025_vfm_merit_8_webcontents_06_n.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
