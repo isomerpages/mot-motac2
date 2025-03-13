@@ -17,7 +17,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM12%202024%202025/MOTAC_2025_MI_Merit_12_WebContents_R2_03jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM12%202024%202025/MOTAC_2025_MI_Merit_12_WebContents_R2_03.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
