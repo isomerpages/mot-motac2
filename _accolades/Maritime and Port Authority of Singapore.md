@@ -39,17 +39,16 @@ variant: markdown
 
   <div>
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 400px" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__1_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__1_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
   </div>
 	<p></p>
   <div>
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 400px" class="speaker-image" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__2_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img class="speaker-image" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__2_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 </div>
-	
-	
+
 <center>
 	<p><b>Champions of Good</b></p>
 	<p>At the Company of Good Conferment 2024, 290 organisations were conferred as “Companies of Good”, with “Champions of Good” being the highest award category. These exemplary organisations demonstrated progressive commitment to Corporate Purpose and made holistic contributions in the five impact areas of People, Society, Governance, Environment, and Economic at a national level.</p>
@@ -123,7 +122,6 @@ variant: markdown
       </div>
 <center><p><b>Innovator of the Year Award - Eugene Khoo</b></p></center><p></p>
 </div>
-
   <div>
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Dare_to_do_Award.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
