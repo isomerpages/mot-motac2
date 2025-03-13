@@ -17,16 +17,16 @@ variant: markdown
 	<p>The Charity Award is presented to organisations and individuals who have made significant donations to Community Chest via outright donations, funds raised from events and SGSHARE while the SHARE Award honours contributions via the SGSHARE programme only. All of these donations will allow Community Chest to continue funding the social service organisations they support on a regular basis.</p>
 </center>
 
-<div class="row">
-  <div class="col is-6">
+
+  <div>
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 400px" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/STEC_jpg.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/STEC_jpg.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><strong>Public Service Science, Technology and Engineering Innovation Challenge - Distinction Award</strong></p></center>
-  </div>
-  <div class="col is-6">
+
+  <div>
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 400px" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/STEC1_jpg.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/STEC1_jpg.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 		<center><p><strong>Successful Completion of World's first Ship-to-Containership Methanol Bunkering Operation in the Port of Singapore</strong></p></center>
 			</div>
@@ -36,18 +36,19 @@ variant: markdown
 	<p>The Public Service Science, Technology and Engineering Conference 2024 gathered many Public Service Science, Technology and Engineering (STE) leaders and professionals to share ideas, collaborate, and strengthen networks. Aiming to ignite innovation in Singapore’s public sector, the event also recognised seven projects (including MPA’s) led by the various Public Service STE agencies.</p>
 </center>
 
-<div class="row">
-  <div class="col is-6">
+
+  <div>
       <div class="speaker-image-wrapper">
         <img style="height: 250px; width: 400px" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__1_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
   </div>
-  <div class="col is-6">
+	<p></p>
+  <div>
       <div class="speaker-image-wrapper">
         <img style="height: 250px; width: 400px" class="speaker-image" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__2_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 </div>
-	</div>
+	
 	
 <center>
 	<p><b>Champions of Good</b></p>
@@ -59,35 +60,32 @@ variant: markdown
 	<p>The PST Awards is the Whole-of-Government pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices. The awards are aimed at encouraging officers and agencies to pursue PST by recognising best practices, as well as desired behaviours and values that undergird achievements.</p>
 </center>
 
-<div class="row">
-  <div class="col is-6">
+
+  <div>
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 400px" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_gavin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+        <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_gavin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Service Delivery Excellence Award - Digital Port Ecosystem</b></p></center>
   </div>
-  <div class="col is-6">
+  <div>
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 400px" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_GDSC.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_GDSC.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 			<center><p><b>Dare to Do Award - Singapore's first ship-to-container ship methanol bunkering with NEA, NParks, PCG and SCDF - Green and Digital Shipping Corridor (GDSC)</b></p></center>
 </div>
-	</div>
-	
-<div class="row">
-  <div class="col is-6">
+
+  <div>
       <div class="speaker-image-wrapper">
         <img style="height: 250px; width: 400px" class="img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_Kevin.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Exemplary SkillsFuture @ Public Service Award - Ching Kian Weng, KelvinS</b></p></center>
   </div>
-  <div class="col is-6">
+  <div>
       <div class="speaker-image-wrapper">
-        <img style="height: 250px; width: 400px" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/CE_and_Recipients_at_PST_Awards_Ceremony.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/CE_and_Recipients_at_PST_Awards_Ceremony.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 			<center><p><b>One Public Service Award - Singapore Pavilion @ COP (WOG Level award) - CLC, MAS, MND, MPA, MOT, MSE, MTI, NCCS, PMO</b></p></center>
 </div>
-	</div>
 	
 ![](/images/ACCOLADES/MPA/Aflas_2024.jpg)
 	
@@ -107,38 +105,34 @@ variant: markdown
 	<p>The Festival of Innovation Awards acknowledges and celebrates the outstanding efforts and contributions of individuals and organisations in advancing innovation and digital transformation within the public sector of Asia Pacific.</p>
 </center>
 
-<div class="row">
-  <div class="col is-4">
+  <div>
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Digital_Leader_of_the_Year.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Digital Leader of the Year Award - Chiam Choon Yee</b></p></center>
   </div>
-  <div class="col is-4">
+  <div>
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___The_Rising_Digital_Star.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 		<center><p><b>Rising Digital Star Award - Sheila Teo</b></p></center>
 </div>
-	 <div class="col is-4">
+	 <div>
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Innovator_of_the_Year.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 <center><p><b>Innovator of the Year Award - Eugene Khoo</b></p></center><p></p>
 </div>
-	</div>
 
-<div class="row">
-  <div class="col is-6">
+  <div>
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___Dare_to_do_Award.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><b>Dare To Do Award - Ranabir Chakravarty</b></p></center>
 		</div>
-  <div class="col is-6">
+  <div>
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/FOI___The_Rising_Digital_Star.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 <center><p><b>Digital Society Award - Digital Port Ecosystem</b></p></center>
-</div>
 </div>
