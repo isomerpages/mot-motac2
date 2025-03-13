@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/banner_2025.jpg)
 
 <center>
-	<h2>Maritime and Port Authority</h2>
+	<h2>Maritime and Port Authority of Singapore</h2>
 </center>
 
 ![](/images/ACCOLADES/MPA/2024_Charity_Bronze___MPA.jpg)
