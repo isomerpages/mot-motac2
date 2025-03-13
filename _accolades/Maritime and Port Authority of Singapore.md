@@ -70,7 +70,7 @@ variant: markdown
       <div class="speaker-image-wrapper">
         <img style="height: 250px; width: 400px" class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MPA/PST_Awards_GDSC.png" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
-			<center><p><b>Dare to Do Award - Singapore's first ship-to-container ship methanol bunkering with NEA, NParks, PCG and SCDF - Green and Digital Corridor (GDSC) Shipping</b></p></center>
+			<center><p><b>Dare to Do Award - Singapore's first ship-to-container ship methanol bunkering with NEA, NParks, PCG and SCDF - Green and Digital Shipping Corridor (GDSC)</b></p></center>
 </div>
 	</div>
 	
