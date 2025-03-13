@@ -2,7 +2,6 @@ collections:
   value-for-money-award:
     output: true
     order:
-      - Min VFM Award Video.md
       - Upgrading of Legacy System to Improve Cybersecurity Posture.md
       - Innovative Semi Balanced Excavation for RTS Link Construction.md
       - Space Optimisation Sustainable Road Development.md
