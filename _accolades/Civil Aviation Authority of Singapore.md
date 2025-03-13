@@ -26,17 +26,15 @@ variant: markdown
 	<p>IDEA! Award Hatch Edition is an award by the Ministry of Digital Development and Information (MDDI) to recognise officers who have demonstrated innovation and the potential to be impactful by solving a work problem with a digital tool.</p>
 </center>
 
-<div class="row">
-  <div class="col is-6">
+  <div>
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/CAAS/Team_Phishing_Alert_System.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
 		<center><p><strong>Automated Phishing Alert System using UiPath</strong></p></center>
   </div>
-  <div class="col is-6">
+  <div>
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/CAAS/Team_PowerReview.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
 		<center><p><strong>PowerReview – PowerShell Implementation of Baseline Log Review on Extracted Windows Event Logs</strong></p></center>
   </div>
-</div>
