@@ -9,7 +9,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM8%202024%202025/MOTAC_2025_VFM_Merit_8_WebContents_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VFM/VM8%202024%202025/MOTAC_2025_VFM_Merit_8_WebContents.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
