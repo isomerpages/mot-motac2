@@ -57,7 +57,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM13%202024%202025/MOTAC_2025_MI_Merit_13_WebContents_R3_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM13%202024%202025/motac_2025_mi_merit_13_webcontents_r3_13_n.jpg">
 </div>
 <a href="https://www.instagram.com/p/C1bm7TgvFq9/">https://www.instagram.com/p/C1bm7TgvFq9/</a>
 <a href="https://www.instagram.com/p/C1rNdOKPcLf/">https://www.instagram.com/p/C1rNdOKPcLf/</a>
