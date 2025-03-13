@@ -41,9 +41,11 @@ variant: markdown
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__1_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
       </div>
-  </div>
-	<p></p>
-  <div>
+ </div>
+ 
+ <center><p></p></center>
+ 
+ <div>
       <div class="speaker-image-wrapper">
         <img class="speaker-image" src="/images/ACCOLADES/MPA/Champion_of_Good_2024__2_.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
       </div>
