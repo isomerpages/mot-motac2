@@ -55,7 +55,3 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM3%202024%202025/MOTAC_2025_MI_Merit_3_WebContents_R3_12.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MI/IM3%202024%202025/MOTAC_2025_MI_Merit_3_WebContents_R3_08_1.jpg">
-</div>
