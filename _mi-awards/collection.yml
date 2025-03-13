@@ -2,7 +2,6 @@ collections:
   mi-awards:
     output: true
     order:
-      - Min Inno Award Video.md
       - South East Asia Oceania Free Route Operations Project.md
       - "SimSG: Synergised Planning Tools and Analytics for WOG.md"
       - Green and Digital Shipping Corridors, Digital Bunkering Initiative.md
