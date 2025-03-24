@@ -10,7 +10,7 @@ variant: markdown
 
 ![](/images/Photo_Gallery/Photo%20gallery%202024%202025/MOTAC_1.jpg)
 
-![](/images/Photo_Gallery/Photo%20gallery%202024%202025/MOTAC_1.jpg)
+![](/images/Photo_Gallery/Photo%20gallery%202024%202025/MOTAC_97.jpg)
 
 ![](/images/Photo_Gallery/Photo%20gallery%202024%202025/MOTAC_1.jpg)
 
