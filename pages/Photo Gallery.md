@@ -1045,6 +1045,3 @@ variant: markdown
 ![](/images/Photo_Gallery/Photo%20gallery%202024%202025/MOTAC2025_300.jpg)
 
 ![](/images/Photo_Gallery/Photo%20gallery%202024%202025/MOTAC2025_301.jpg)
-
-
-Due to system limitation, some award photos cannot be uploaded onto the microsite. Please click [here](https://drive.google.com/drive/folders/1TN8qadzmDVjjUogKHlsEVm8_8BYYGqHK?usp=sharing) to view&nbsp;all&nbsp;photos.
