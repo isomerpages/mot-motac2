@@ -2,6 +2,8 @@ logo: /images/MOTAC_Logo_Clr_2.png
 links:
   - title: Home
     url: /motac24-25/
+  - title: Photo Gallery
+    url: /gallery/
   - title: Accolades
     collection: accolades
   - title: National Day Awards
