@@ -8,14 +8,10 @@ variant: markdown
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/egvVfbjybdg?si=UR_JRksdYuAab8sn" height="315" width="100%"></iframe>
 <p></p>
-<div><p>if you are unable to view the photos on this page, please click on the respective links below.
-	
-Event photos
-Photobook photosEvent photos:
-https://drive.google.com/drive/folders/1JoGs3oN-ci9ekd3G9qD9XBCS8KwqvPLb?usp=drive_link
-
-Photobooth photos:
-https://drive.google.com/drive/folders/1exrqsuOTfzzwjnCC9yDe7HhW3uNR8Spk?usp=drive_link</p></div>
+<div><p>if you are unable to view the photos on this page, please click on the respective links below.</p><br>
+	<p>Event photos</p>
+	<a href="https://drive.google.com/drive/folders/1JoGs3oN-ci9ekd3G9qD9XBCS8KwqvPLb?usp=drive_link">Photobook photosEvent photos</a><br>
+<a href="https://drive.google.com/drive/folders/1exrqsuOTfzzwjnCC9yDe7HhW3uNR8Spk?usp=drive_link">Photobooth photos</a></div>
 
 ![](/images/Photo_Gallery/Photo%20gallery%202024%202025/MOTAC_1.jpg)
 
