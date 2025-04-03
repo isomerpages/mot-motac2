@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/banner_2025.jpg)
 
 <p></p>
-<div><p>if you are unable to view the photos on this page, please click on the respective links below.</p>
+<div><p>If you are unable to view the photos on this page, please click on the respective links below.</p>
 	<a href="https://drive.google.com/drive/folders/1JoGs3oN-ci9ekd3G9qD9XBCS8KwqvPLb?usp=drive_link">Event photos</a><br>
 <a href="https://drive.google.com/drive/folders/1exrqsuOTfzzwjnCC9yDe7HhW3uNR8Spk?usp=drive_link">Photobooth photos</a></div>
 
